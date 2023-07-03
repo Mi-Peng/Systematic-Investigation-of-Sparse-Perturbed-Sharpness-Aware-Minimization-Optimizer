@@ -1,11 +1,8 @@
 # Systematic-Investigation-of-Sparse-Perturbed-Sharpness-Aware-Minimization-Optimizer
-Systematic Investigation of Sparse Perturbed Sharpness-Aware Minimization Optimizer
-
-Coming Soon
+This is the official implementation of paper [Systematic Investigation of Sparse Perturbed Sharpness-Aware Minimization Optimizer](https://arxiv.org/abs/2306.17504)
 
 
 ## Installation
-
 
 <details open>
 <summary>  Clone this repo  </summary>
